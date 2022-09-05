@@ -1,0 +1,35 @@
+/* Background and text Colors */
+.tuk-bg-primary{
+    background-color: #632D38;
+}
+.tuk-bg-secondary{
+    background-color: #793140;
+}
+.tuk-bg-lightBlue{
+    background-color: #34539A;
+}
+.tuk-bg-blue{
+    background-color: #44349F;
+}
+.tuk-bg-violet{
+    background-color: #7734A4;
+}
+
+.tuk-text-primary{
+    color: #632D38;
+}
+.tuk-text-secondary{
+    color: #793140;
+}
+.tuk-text-lightBlue{
+    color: #34539A;
+}
+.tuk-text-blue{
+    color: #44349F;
+}
+.tuk-text-violet{
+    color: #7734A4;
+}
+.tuk-text-gray{
+    color: #EAEAEA;
+}
